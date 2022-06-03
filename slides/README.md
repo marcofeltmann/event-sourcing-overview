@@ -19,8 +19,8 @@ Event Sourcing Overview:
     - Pub/Sub with NATS (one might use NSQ as well)
     - Persistent Consumer with JetStream (one might create some own as well)
 - What we already do with it
-    - Nothing, err, meine.curabox.de (WIP, Pre-Beta)
-    - Digital Care Assistant (WRIP, Pre-Alpha…)
+    - Nothing, err, something (WIP, Pre-Beta)
+    - some other thing (WRIP, Pre-Alpha…)
 - How a simple e-commerce flow might look like
     - Structure roughly stolen by Greg Youngs "Shipping Informat ion added" talk
     - Sample App
